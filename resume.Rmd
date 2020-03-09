@@ -1,0 +1,129 @@
+---
+title: "Resume!"
+author: Kauê
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+Contato {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> kauebraga90@gmail.com
+- <i class="fa fa-github"></i> [github.com/kauebraga](https://github.com/kauebraga)
+<!-- - <i class="fa fa-home"></i> www.jienamclellan.com -->
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- **Linguagem de programação**: conhecimento avançado em R (exemplos no Github) e conhecimento básico em Python, HTML e CSS
+
+- Conhecimento em ferramentas e bases open source (como OpenStreetMap, Leaflet) e versionamento de projetos (GitHub)
+
+- Conhecimento em ferramentas de geoprocessamento (QGIS, R)
+
+- Conhecimento intermediário na produção de dashboards interativos
+
+
+Publicações {#publication}
+--------------------------------------------------------------------------------
+
+Pereira, R. H. M., Braga, C. K. V., Serra, Bernardo, & Nadalin, V. (2019). Desigualdades socioespaciais de acesso a oportunidades nas cidades brasileiras, 2019. **Texto para Discussão Ipea, 2535**. Instituto de Pesquisa Econômica Aplicada (Ipea). Disponível [aqui](http://repositorio.ipea.gov.br/handle/11058/9586) 
+
+
+Línguas
+--------------------------------------------------------------------------------
+
+Português (nativo), Inglês (fluente)
+
+
+
+
+Main
+================================================================================
+
+Carlos Kauê V. Braga {#title}
+--------------------------------------------------------------------------------
+
+Assistente de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA) e mestre em Engenharia de Transportes (UFC). Interesse focado em análise de dados espaciais e não-espaciais, com experiência em acessibilidade e análise de *big data* de transporte público (bilhetagem e GPS)
+
+
+Educação {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidade Federal do Ceará
+
+MSc em Engenharia de Transportes
+
+Fortaleza, Ceará, Brasil
+
+2019
+
+Dissertação “Big Data de Transporte Público na Análise da Variabilidade de Indicadores da Acessibilidade às Oportunidades de Trabalho e Educação”. Defesa em Setembro/2019. Orientador: Prof. Dr. PhD Carlos Felipe Grangeiro Loureiro
+
+### Universidade Federal do Ceará
+
+Bachalerado em Engenharia Civil
+
+Fortaleza, Ceará, Brasil
+
+2009 - 2016
+
+### University of Nebraska at Omaha
+
+Graduação Sanduíche em Engenharia Civil
+
+Omaha, Nebraska, EUA
+
+2014 - 2015
+
+
+Experiência {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Assistente de Pesquisa - IPEA
+
+Instituto de Pesquisa Econômica Aplicada
+
+Brasília, DF,  Brasil
+
+2019 - Presente
+
+Assistente de Pesquisa no projeto “Acesso a Oportunidades”, que consiste na estimação de indicadores de acessibilidade para as grandes cidades do Brasil. Trabalho consiste no tratamento e modelagem de dados de transporte público (GTFS) e uso do solo. Publicações são esperadas.
+
+
+### Grupo de Pesquisa MITUS 
+
+Universidade Federal do Ceará
+
+Fortaleza, Ceará, Brasil
+
+2017 - 2019
+
+Integrante do grupo de pesquisa de Modelagem Integrada de Transporte e Uso do Solo (MITUS). Trabalho consiste principalmente na análise de big data de transporte público (bilhetagem e GPS).
+
+### Bolsista 
+
+University of Nebraska at Omaha
+
+Omaha, Nebraska, EUA
+
+2015
+
+Área de Engenharia de Tráfego (Traffic Engineering). Orientado pela Dr Elizabeth Jones. Carga horária de 40 horas semanais.
+
+
+
+<!-- ::: aside -->
+<!-- ### Languages: -->
+
+<!-- Português (nativo), Inglês (fluente) -->
+
+<!-- ::: -->
+
