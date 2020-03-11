@@ -24,7 +24,7 @@ Habilidades {#skills}
 
 - **Linguagem de programação**: conhecimento avançado em R (exemplos no Github) e conhecimento básico em Python, HTML e CSS
 
-- Conhecimento em ferramentas e bases open source (como OpenStreetMap, Leaflet) e versionamento de projetos (GitHub)
+- Conhecimento em ferramentas e bases open source (como OpenStreetMap, Leaflet) e versionamento de projetos (GitHub e GitLab)
 
 - Conhecimento em ferramentas de geoprocessamento (QGIS, R)
 
